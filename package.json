@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-iuap",
+  "version": "0.0.1",
+  "description": "依赖 [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb),具体规范可参照[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)。（[中文版本点这里](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)）",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^3.7.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/eslint-config-iuap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuap-design/eslint-config-iuap/issues"
+  },
+  "homepage": "https://github.com/iuap-design/eslint-config-iuap#readme"
+}
