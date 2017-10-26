@@ -1,19 +1,19 @@
 {
   "name": "eslint-config-iuap",
   "version": "0.0.1",
-  "description": "依赖 [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb),具体规范可参照[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)。（[中文版本点这里](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)）",
+  "description": "yonyoufed iuap eslint",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "eslint": "^3.7.1",
+    "eslint": "^4.5.0",
     "eslint-config-airbnb": "^12.0.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
-    "eslint-plugin-react": "^6.3.0",
-    "gulp-eslint": "^3.0.1",
-    "gulp": "^3.9.1"
+    "eslint-plugin-react": "^7.3.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
